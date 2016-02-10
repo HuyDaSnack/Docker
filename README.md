@@ -1,2 +1,1 @@
-# Docker
-Place all things related to Docker
+# Docker - Everything related to Docker 
